@@ -19,5 +19,15 @@ Em síntese, essas três etapas juntas tornam a pesquisa em documentos muito mai
 
 ### Explorando os Recursos de IA Generativa
 Conforme o uso de IAs Generetivas, percebi que quanto mais informações eu der para o modelo, maiores são as chances de obter um resultado esperado. Isso é bem lógico, porém, nos meus primeiros contatos com a ferramenta, eu esperava que ela soubesse o que eu quero sem que eu fosse tão específico. No entanto, é válido lembrar que, embora a informação não seja tão clara, ainda é possível que a IA entenda o que eu quero, como quando eu sem querer errava a ortografia de uma palavra ou frase. Concluo então que é importante sermos precisos no prompt para não corrermos o risco de adquirirmos respostas contrárias às nossas espectativas. Prosseguindo com o assunto, segue alguns prints de prompts meus com o ChatGPT:
+![ConversasPrompt](https://github.com/user-attachments/assets/0ffd2fb1-8684-41fe-93ae-696f7181cae0)
+
+Na imagem, descrevo o contexto, o que eu quero que seja feito e o modo pelo qual será executado, praticando, assim, a precisão do comando.
+
+![Dialogo](https://github.com/user-attachments/assets/28d2f9a0-6c1e-4cff-8853-2aa5fbb5cc92)
+
+Esta outra imagem permite ver que a IA entendeu o comando e, para ser sincero, gostei da didática, porém não parei por aí: verifiquei na IDE se os códigos estavam corretas ( e estavam! ).
+
+Em suma, gostei muito da experiência, o que me deu mais vontade de usá-la.
+
 
 
