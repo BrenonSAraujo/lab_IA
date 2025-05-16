@@ -17,4 +17,7 @@ Com tudo bem armazenado e indexado, chega a hora de usar essas informações. Aq
 
 Em síntese, essas três etapas juntas tornam a pesquisa em documentos muito mais eficiente e inteligente, economizando tempo e ajudando na tomada de decisões com base em dados confiáveis.
 
+### Explorando os Recursos de IA Generativa
+Conforme o uso de IAs Generetivas, percebi que quanto mais informações eu der para o modelo, maiores são as chances de obter um resultado esperado. Isso é bem lógico, porém, nos meus primeiros contatos com a ferramenta, eu esperava que ela soubesse o que eu quero sem que eu fosse tão específico. No entanto, é válido lembrar que, embora a informação não seja tão clara, ainda é possível que a IA entenda o que eu quero, como quando eu sem querer errava a ortografia de uma palavra ou frase. Concluo então que é importante sermos precisos no prompt para não corrermos o risco de adquirirmos respostas contrárias às nossas espectativas. Prosseguindo com o assunto, segue alguns prints de prompts meus com o ChatGPT:
+
 
